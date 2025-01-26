@@ -1,7 +1,7 @@
 pipeline {
   environment {
     registry = "hananeenset/tp5"
-    registryCredential = 'dockerhub'
+    registryCredential = 'bacphilips23'
     dockerImage = ''
   }
   agent any
